@@ -91,4 +91,4 @@ Durante os estudos, o aluno terá contato com:
 ## 🌐 Portal das Visual Novels
  https://lobiancobr.github.io/VISUAL_NOVEL/
 
-**"Toda grande Visual Novel começa com uma boa história e uma escolha significativa." 🎭📖🎮**
+> **"Toda grande Visual Novel começa com uma boa história e uma escolha significativa." 🎭📖🎮**
